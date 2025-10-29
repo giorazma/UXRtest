@@ -17,7 +17,7 @@ export default function Navigation() {
       <div className="max-w-6xl mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <a href="#" className="text-2xl font-bold text-slate-900">
-            UX Research Studio
+            AccessX
           </a>
 
           <div className="hidden md:flex items-center space-x-8">
