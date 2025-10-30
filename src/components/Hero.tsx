@@ -10,7 +10,7 @@ export default function Hero() {
             <span className="text-blue-600">research-driven insights</span>
           </h1>
           <p className="text-xl md:text-2xl text-slate-600 mb-8 leading-relaxed">
-            დაენძრა ყველააას.
+            გავიცინეთ გვეყო.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
             <a
