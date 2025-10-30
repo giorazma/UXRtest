@@ -31,11 +31,6 @@ export default function Footer() {
                 </a>
               </li>
               <li>
-                <a href="#process" className="hover:text-blue-400 transition-colors">
-                  Process
-                </a>
-              </li>
-              <li>
                 <a href="#cases" className="hover:text-blue-400 transition-colors">
                   Case Studies
                 </a>
