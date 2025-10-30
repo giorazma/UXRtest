@@ -134,7 +134,7 @@ export default function Contact() {
                 </a>
 
                 <a
-                  href="https://linkedin.com/in/uxresearcher"
+                  href="https://www.linkedin.com/company/accessx7"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-4 p-4 bg-white/10 backdrop-blur-sm rounded-xl hover:bg-white/20 transition-all text-white"

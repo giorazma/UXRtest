@@ -59,7 +59,7 @@ export default function Footer() {
                 hello@uxresearch.com
               </a>
               <a
-                href="https://linkedin.com/in/uxresearcher"
+                href="https://www.linkedin.com/company/accessx7"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 hover:text-blue-400 transition-colors"
